@@ -4,8 +4,13 @@ This is a node app server that buffers/streams video
 
 ## To run it
 
-`npm install`
+```sh
+$ npm install
+```
+If altready nodemon is installed
 
-`npm start` 
+```sh
+$ npm start
+``` 
 
 Running on localhost 3000
